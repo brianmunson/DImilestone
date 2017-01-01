@@ -2,7 +2,7 @@ bokeh==0.12.3
 Flask==0.12
 gunicorn==19.1.0
 Jinja2==2.8
-pandas==pandas==0.19.2+0.g825876c.dirty
+pandas==pandas==0.19.2
 tweepy==3.5.0
 yweather==0.1.1
 oauthlib==2.0.1
