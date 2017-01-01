@@ -163,6 +163,6 @@ def bargraph():
 
 
 if __name__ == '__main__':
-    port=int(os.environ.get("PORT", 5000)) # local
-    app.run(port=port, host='0.0.0.0') # local
-    # app.run(port=33507) # Heroku
+    # port=int(os.environ.get("PORT", 5000)) # local
+    # app.run(port=port, host='0.0.0.0') # local
+    app.run(port=33507) # Heroku
