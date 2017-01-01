@@ -9,4 +9,4 @@ oauthlib==2.0.1
 requests==2.12.4
 requests-oauthlib==0.7.0
 simplejson==3.10.0
-
+python-dotenv==0.6.1
